@@ -27,3 +27,8 @@ reports
 bin
 include
 lib/python2.6/
+
+# for OSGi Bundles
+META-INF/
+build.properties
+
